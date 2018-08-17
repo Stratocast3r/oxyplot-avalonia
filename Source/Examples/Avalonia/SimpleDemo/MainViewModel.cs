@@ -7,11 +7,11 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
+using OxyPlot;
+using OxyPlot.Series;
+
 namespace SimpleDemo
 {
-    using OxyPlot;
-    using OxyPlot.Series;
-
     /// <summary>
     /// Represents the view-model for the main window.
     /// </summary>

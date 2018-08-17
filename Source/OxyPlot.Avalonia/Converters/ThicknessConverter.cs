@@ -7,6 +7,8 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
+using Avalonia.Data.Converters;
+
 namespace OxyPlot.Avalonia.Converters
 {
     using global::Avalonia;
